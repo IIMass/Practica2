@@ -1,1 +1,1 @@
-// Code goes here
+// Code goes here. For example void Code::HelloWorld();
