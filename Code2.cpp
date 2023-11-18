@@ -8,3 +8,7 @@ void Code::HelloWorld2()
 {
 	printf("Hello World2!"); // Ha ha, very funny. Be more serious.
 }
+int Code::Sum(int a, int b)
+{
+	return a + b;
+}
