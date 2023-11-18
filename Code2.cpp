@@ -2,7 +2,7 @@
 
 void Code::HelloWorld()
 {
-	printf("Hello World!"); // No need for that many exclamation points
+	printf("Hello World!!"); // No need for that many exclamation points
 }
 void Code::HelloWorld2()
 {
