@@ -1,1 +1,6 @@
-// Code goes here. For example void Code::HelloWorld();
+// Code goes here
+
+void Code::HelloWorld()
+{
+	printf("Hello World!);
+}
