@@ -6,5 +6,5 @@ void Code::HelloWorld()
 }
 void Code::HelloWorld2()
 {
-	printf("Hello Wor... What? World2????");
+	printf("Hello World2!"); // Ha ha, very funny. Be more serious.
 }
