@@ -16,7 +16,7 @@ int main()
     GetBiggestByte();
     printf("\n");
 
-    char word[] = "Hola!";
+    char word[] = "Hello!"; // Cambio hecho en Test
 
     ReverseString(word, static_cast<unsigned int>(sizeof(word) / sizeof(char)));
     printf("%s", word);
