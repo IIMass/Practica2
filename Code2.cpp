@@ -2,7 +2,7 @@
 
 void Code::HelloWorld()
 {
-	printf("Hello World!!!!");
+	printf("Hello World!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 }
 void Code::HelloWorld2()
 {
